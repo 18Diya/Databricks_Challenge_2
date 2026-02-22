@@ -26,7 +26,7 @@ Setup complete. Data validated. Ready for engineering.
 
 # PHASE 1: BETTER DATA ENGINEERING (Days 1–4)
 
-# Day 1 (21/02/26) – Delta Conversion & Optimization  
+# Day 1 (20/02/26) – Delta Conversion & Optimization  
 
 Completed Day 1 of Challenge 2, focusing on production-style data engineering using Delta Lake.
 
@@ -39,3 +39,25 @@ From raw data ingestion to optimized Delta tables — moving toward production-g
 <img width="1919" height="818" alt="Screenshot 2026-02-20 213229" src="https://github.com/user-attachments/assets/4b30be86-67dc-4be6-8d03-a8caf5bb93b7" />
 
 <img width="1906" height="890" alt="Screenshot 2026-02-20 213246" src="https://github.com/user-attachments/assets/690f87d6-9496-460f-90b3-220a86bb12b5" />
+
+# Day 2 (21/02/26) – Feature Table (Silver Layer Thinking)
+
+Completed Day 2 focusing on production-style feature engineering and structured Silver layer design.
+
+What I Learned Today:
+→ Bronze → Silver → Gold data architecture and why layered systems matter
+→ How feature engineering works in real production pipelines
+→ User-level aggregation strategy for ML-ready datasets
+→ Building clean, deduplicated feature tables for downstream modeling
+
+Tasks I Completed:
+→ Engineered user-level aggregated features from raw event data
+→ Built a structured Silver layer feature table
+→ Saved the table in Delta format for reliability and scalability
+→ Validated feature quality and ensured zero duplicate user records
+
+<img width="1919" height="857" alt="image" src="https://github.com/user-attachments/assets/319e1cc3-03fd-469e-80f7-21160c8bcf91" />
+
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/2e8fb3b2-0eb1-49ca-ac6a-4ecfd8207040" />
+
+<img width="1914" height="859" alt="image" src="https://github.com/user-attachments/assets/2a59f29b-cb4b-47f2-a532-2bee3995a59b" />
