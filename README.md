@@ -83,3 +83,105 @@ Tasks I Completed:
 <img width="1919" height="805" alt="Screenshot 2026-02-22 121050" src="https://github.com/user-attachments/assets/83e97d2a-82e3-4cbc-be5a-4cf8641edd00" />
 
 <img width="1919" height="746" alt="Screenshot 2026-02-22 120953" src="https://github.com/user-attachments/assets/c2691020-ce01-40a2-8f86-ff7fb2ef03a1" />
+
+# Day 4 (23/02/26) – Structured Streaming (Basic Simulation)
+
+Completed Day 4 focusing on real-time data processing and streaming architecture in Databricks.
+
+What I Learned Today:
+→ How micro-batch processing works in Structured Streaming
+→ The role of checkpointing in fault tolerance and recovery
+→ Writing streaming outputs directly into Delta tables
+→ How streaming pipelines differ from batch workflows
+
+Tasks I Completed:
+→ Simulated streaming ingestion from a folder source
+→ Configured checkpointing for reliable state management
+→ Wrote streaming aggregation output to a Delta table
+→ Queried and validated streaming results using Spark SQL
+
+<img width="1290" height="866" alt="image" src="https://github.com/user-attachments/assets/b61282af-8017-45ce-8791-f05a9bf82c19" />
+
+<img width="1167" height="853" alt="image" src="https://github.com/user-attachments/assets/d35f978b-ceb6-4610-9d41-a34faebc51c7" />
+
+<img width="1011" height="221" alt="image" src="https://github.com/user-attachments/assets/37756904-546f-4bac-935d-77ed82bab4d2" />
+
+# Day 5 (24/02/26) – Production-Grade Feature Engineering
+
+Completed Day 5 focusing on building clean, model-ready datasets for machine learning.
+
+What I Learned Today:
+→ How to create binary classification targets from raw event data
+→ Joining engineered feature tables with target labels
+→ Proper train-test splitting strategies
+→ Detecting and validating class imbalance in datasets
+
+Tasks I Completed:
+→ Created a binary purchase label from event-level data
+→ Joined label data with silver feature tables
+→ Split dataset into training and testing sets
+→ Validated label distribution across both splits
+
+<img width="1145" height="652" alt="image" src="https://github.com/user-attachments/assets/bb60dbe2-d8ea-403b-aff2-a30ef77afe1b" />
+
+<img width="1145" height="893" alt="image" src="https://github.com/user-attachments/assets/e51f8188-2809-4253-9f51-67b1e0dfca5e" />
+
+<img width="1148" height="883" alt="image" src="https://github.com/user-attachments/assets/4a20aeed-dcd4-41ec-aac2-33210ab92b24" />
+
+<img width="1151" height="597" alt="image" src="https://github.com/user-attachments/assets/29771a83-3a01-429c-aecc-1bbb9284b2b1" />
+
+# Day 6 (25/02/26) – Model Training & Tuning
+
+Completed Day 6 focusing on applied machine learning model training and evaluation.
+
+What I Learned Today:
+→ Logistic Regression fundamentals in Spark ML
+→ RandomForest classifier implementation
+→ Model evaluation using AUC (Area Under ROC)
+→ Importance of training vs test evaluation
+
+Tasks I Completed:
+→ Trained a Logistic Regression model
+→ Trained a RandomForest classifier
+→ Evaluated both models using AUC
+→ Compared performance to identify the stronger model
+
+<img width="1016" height="771" alt="image" src="https://github.com/user-attachments/assets/bc7d7320-250e-4fec-9f67-a96c93d548b4" />
+
+<img width="1160" height="902" alt="image" src="https://github.com/user-attachments/assets/180d6390-5cd2-48e2-b8fa-a65db94af83f" />
+
+<img width="1162" height="817" alt="image" src="https://github.com/user-attachments/assets/7a195730-477b-410c-a5b4-149b55582de8" />
+
+<img width="1258" height="690" alt="image" src="https://github.com/user-attachments/assets/83749f4e-92ed-4f81-8e86-0ee06dfcc57c" />
+
+<img width="1259" height="878" alt="image" src="https://github.com/user-attachments/assets/d6d330be-8209-4c0b-9cf5-e66accb07319" />
+
+<img width="1260" height="887" alt="image" src="https://github.com/user-attachments/assets/39131091-00c6-499a-a2db-048b53c3b7ae" />
+
+<img width="1248" height="370" alt="image" src="https://github.com/user-attachments/assets/9271a6ae-b471-4e7f-967d-722830a0dec7" />
+
+# Day 7 (26/02/26) – MLflow Tracking
+
+Completed Day 7 focusing on experiment tracking and model lifecycle management using MLflow.
+
+What I Learned Today:
+→ How MLflow tracks experiments and parameters
+→ Logging metrics and artifacts programmatically
+→ Comparing model runs inside MLflow UI
+→ Basic model versioning concepts
+
+Tasks I Completed:
+→ Logged training runs into MLflow
+→ Recorded evaluation metrics and parameters
+→ Compared multiple model experiments
+→ Registered model versions for reproducibility
+
+<img width="1918" height="901" alt="image" src="https://github.com/user-attachments/assets/cc42b57e-994b-40f2-98fe-fc07df98362a" />
+
+<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/f637fdd4-273f-4f91-a2a5-272a5b800133" />
+
+<img width="1919" height="700" alt="image" src="https://github.com/user-attachments/assets/688b9de2-1f93-431b-9191-6920f1f9a75f" />
+
+<img width="1913" height="905" alt="image" src="https://github.com/user-attachments/assets/f335b63b-deeb-453b-993b-4bf34b074ae6" />
+
+<img width="1919" height="591" alt="image" src="https://github.com/user-attachments/assets/9ab0640a-68e4-44b6-a988-ba23c7d6f5f8" />
