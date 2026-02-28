@@ -207,3 +207,30 @@ Tasks I Completed:
 <img width="1919" height="721" alt="image" src="https://github.com/user-attachments/assets/6d5631ff-d7a8-4b55-9e4c-d56d16013a0f" />
 
 <img width="1911" height="911" alt="image" src="https://github.com/user-attachments/assets/e25fcb26-a05b-4f27-9c46-efb1302a57b6" />
+
+# Day 9 (28/02/26) – Recommendation System
+
+Completed Day 9 focusing on building a recommendation system using collaborative filtering with ALS.
+
+What I Learned Today:
+→ How collaborative filtering works using user–item interaction data
+→ The difference between explicit and implicit feedback
+→ How ALS (Alternating Least Squares) factorizes user-item matrices
+→ Understanding the cold start problem in recommendation systems
+→ How ranking-based recommendations differ from probability-based predictions
+
+Tasks I Completed:
+→ Created rating mapping from event data (view, click, purchase → numerical scores)
+→ Built a user–product interaction dataset
+→ Trained an ALS model using Spark MLlib
+→ Generated Top-5 product recommendations per user
+→ Ranked recommendations using predicted scores
+→ Filtered out already interacted products for cleaner recommendations
+
+<img width="1912" height="894" alt="image" src="https://github.com/user-attachments/assets/89460b17-5edc-464f-b27c-4ca3cddd2a56" />
+
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/fc971d01-c9cc-4e74-99a1-a3fdf1176d10" />
+
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/f0418608-24f1-4477-bde0-bcd167047a21" />
+
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/9b9150be-fe2c-4885-9e06-d794c1eec1f5" />
