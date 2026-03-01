@@ -234,3 +234,29 @@ Tasks I Completed:
 <img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/f0418608-24f1-4477-bde0-bcd167047a21" />
 
 <img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/9b9150be-fe2c-4885-9e06-d794c1eec1f5" />
+
+# DAY 10 (01/03/26) – Query Optimization & Explain Plans
+
+Completed Day 10 focusing on query optimization and improving Spark job performance.
+
+What I Learned Today: 
+→ How to analyze execution plans using .explain()
+→ Understanding partition pruning and its impact on performance 
+→ How caching speeds up repeated computations
+→ Identifying bottlenecks in Spark queries
+
+Tasks I Completed: 
+→ Executed a heavy Spark query on large data
+→ Analyzed the physical plan using .explain() 
+→ Enabled caching on intermediate DataFrame 
+→ Compared execution time before and after optimization
+
+<img width="1913" height="713" alt="image" src="https://github.com/user-attachments/assets/4c52d08b-9795-4b1a-bea8-0202a7ab530c" />
+
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/f1c7ec39-6fd0-4b2b-ab07-194e27db89dc" />
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/1d7ac404-9241-44c9-ba73-9e68bef7e9aa" />
+
+<img width="1908" height="650" alt="image" src="https://github.com/user-attachments/assets/c6843b78-215f-497b-a61f-f0437c467ad1" />
+
+<img width="1904" height="902" alt="image" src="https://github.com/user-attachments/assets/8fbbcc29-f81f-449d-a2f2-c981a47e984f" />
