@@ -260,3 +260,18 @@ Tasks I Completed:
 <img width="1908" height="650" alt="image" src="https://github.com/user-attachments/assets/c6843b78-215f-497b-a61f-f0437c467ad1" />
 
 <img width="1904" height="902" alt="image" src="https://github.com/user-attachments/assets/8fbbcc29-f81f-449d-a2f2-c981a47e984f" />
+
+# DAY 11 (02/03/26) – Time Travel & Data Recovery
+
+Completed Day 11 focusing on Delta Lake versioning and data recovery.
+
+What I Learned Today: → How Delta Lake maintains table version history → How to perform time travel queries → Understanding rollback and data recovery mechanisms → Comparing different table versions
+
+Tasks I Completed: → Appended new records to Delta table → Queried an older table version using time travel → Compared differences between table versions
+
+<img width="1911" height="919" alt="image" src="https://github.com/user-attachments/assets/5562eea3-5517-43f4-bb60-a7271dcef277" />
+
+<img width="1919" height="832" alt="image" src="https://github.com/user-attachments/assets/e0e4de8c-602e-4dda-b052-853671bc375f" />
+
+<img width="1912" height="619" alt="image" src="https://github.com/user-attachments/assets/c56cdd3a-548e-43ed-96ea-481415c33bde" />
+
