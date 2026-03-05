@@ -321,7 +321,7 @@ Tasks I Completed:
 
 <img width="1333" height="894" alt="image" src="https://github.com/user-attachments/assets/dce61b71-1800-48d1-bee7-b53304529dcc" />
 
-DAY 14 (05/03/26) – Final Production-Ready System
+# DAY 14 (05/03/26) – Final Production-Ready System
 
 Completed Day 14 focusing on building a final production ready system by combining the complete data pipeline with the machine learning workflow.
 
